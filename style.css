@@ -2,66 +2,141 @@ body {
     background-color: black;
 }
 
-h1 {
-    color: white;
-}
-
-/* Rojo */
 #p1 {
-    color: #FF0000;
+    background-color: aqua;
+    color: navy;
+    padding: 10px;
+    border-radius: 5px;
+    border: 2px solid navy;
 }
 
-/* Rojo anaranjado */
 #p2 {
-    color: #FF4500;
+    background-color: yellow;
+    color: brown;
+    font-weight: bold;
+    padding: 15px;
+    border-radius: 8px;
+    border: 3px dashed brown;
 }
 
-/* Naranja */
-#p3 {
-    color: #FFA500;
-}
-
-/* Amarillo anaranjado */
 #p4 {
-    color: #FFD700;
+    background-color: orange;
+    color: darkred;
+    font-style: italic;
+    padding: 10px;
+    border-radius: 5px;
+    border: 5px solid darkred;
 }
 
-/* Amarillo */
 #p5 {
-    color: #FFFF00;
+    background-color: pink;
+    color: purple;
+    text-decoration: underline;
+    padding: 14px;
+    border-radius: 7px;
+    border: 6px dotted purple;
 }
 
-/* Amarillo verdoso */
 #p6 {
-    color: #ADFF2F;
+    background-color: violet;
+    color: white;
+    font-size: 18px;
+    padding: 16px;
+    border-radius: 9px;
+    border: 7px groove white;
 }
 
-/* Verde lima */
 #p7 {
-    color: #00FF00;
+    background-color: cyan;
+    color: black;
+    font-family: 'Arial', sans-serif;
+    padding: 18px;
+    border-radius: 10px;
+    border: 8px double black;
 }
 
-/* Verde */
 #p8 {
-    color: #008000;
+    background-color: lightcoral;
+    color: darkslategray;
+    text-align: center;
+    padding: 12px;
+    border-radius: 6px;
+    border: 9px groove darkslategray;
 }
 
-/* Verde azulado */
 #p9 {
-    color: #008080;
+    background-color: lightblue;
+    color: midnightblue;
+    font-weight: bold;
+    text-decoration: underline;
+    padding: 15px;
+    border-radius: 8px;
+    border: 10px double midnightblue;
 }
 
-/* Azul verdoso */
 #p10 {
-    color: #2E8B57;
+    background-color: lightgreen;
+    color: darkolivegreen;
+    font-style: italic;
+    padding: 10px;
+    border-radius: 5px;
+    border: 2px solid darkolivegreen;
 }
 
-/* Azul */
 #p11 {
-    color: #0000FF;
+    background-color: lightgoldenrodyellow;
+    color: darkgoldenrod;
+    font-size: 16px;
+    padding: 14px;
+    border-radius: 7px;
+    border: 3px dashed darkgoldenrod;
 }
 
-/* Rosa intenso */
+#p12 {
+    background-color: lightsalmon;
+    color: darkred;
+    text-align: center;
+    font-family: 'Courier New', monospace;
+    padding: 16px;
+    border-radius: 9px;
+    border: 4px solid darkred;
+}
+
 #p13 {
-    color: #FF1493;
+    background-color: lightpink;
+    color: darkmagenta;
+    font-weight: bold;
+    padding: 18px;
+    border-radius: 10px;
+    border: 5px groove darkmagenta;
+}
+
+#p14 {
+    background-color: lightseagreen;
+    color: white;
+    font-style: italic;
+    padding: 20px;
+    border-radius: 12px;
+    border: 6px dotted white;
+}
+
+#p15 {
+    background-color: lightskyblue;
+    color: darkblue;
+    font-size: 14px;
+    text-decoration: underline;
+    padding: 22px;
+    border-radius: 15px;
+    border: 7px double darkblue;
+}
+
+#p16 {
+    background-color: lightyellow;
+    color: darkorange;
+    font-weight: bold;
+    text-align: center;
+    padding: 18px;
+    border-radius: 10px;
+    border: 8px dashed darkorange;
+
 }
