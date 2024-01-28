@@ -1,53 +1,19 @@
 body{
-    background-color: #abdbfc;
-    font-family: 'Arial';
-    padding: 20px;
+    margin: 0px;
 }
-
-h1 {
-    text-align: center;
-    font-size: 4em;
-    border-bottom: 2px solid #333;
-    padding-bottom: 10px;
-    text-shadow: 5px 5px 2px rgb(85, 140, 172), -5px -5px 2px hsl(118, 48%, 57%);
+.box{
+    border: 5px solid;
+    font-size: 5em;
+    width: 250px;
+    height: 250px;
+    margin-top: 50px;
+    margin-right: 50px;
+    margin-bottom: 50px;
+    margin-left: 50px;
 }
-
-#tx1{
-
-    font-size: 15px;
-    font-family: 'Verdana';
+#box1{
+    background-color: hsl(334, 32%, 82%);
 }
-table {
-    border-collapse: collapse;
-    width: 100%;
-}
-
-th, td {
-    text-align: center;
-    padding: 8px;
-    border: 2px solid black; 
-    background-color: rgb(207, 250, 187);
-}
-#i1 {
-    width: 30%;
-    height: auto;
-    float: left;
-    margin-right: 350px;
-}
-
-#i2 {
-    width: 45%;
-    height: auto;
-    float: left;
-    box-shadow: 14px,14px,5px black;
-}
-#video1 {
-    width: 50%;
-    float: left; 
-    margin-right: 100px; 
-}
-#video2 {
-    width: 40%;
-    float: left; 
-    margin-right: 10px; 
+#box2{
+    background-color: hsl(188, 24%, 70%);
 }
