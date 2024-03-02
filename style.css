@@ -1,40 +1,12 @@
-body{
-    background-color: black;
+div{
+    background-color: hsl(0, 100%, 75%);
+    width: 100px;
+    height: 100px;
+    display: block;
 }
-
-
-#text1 {
-    border: 3px solid blanchedalmond;
-    height: 50px;
-    color: rgb(252, 171, 232);
-    overflow: visible;
-}
-
-#text2 {
-    border: 3px solid blanchedalmond;
-    height: 50px;
-    color: rgb(114, 177, 228);
-    overflow: hidden;
-}
-
-#text3 {
-    border: 3px solid blanchedalmond;
-    height: 50px;
-    color: rgb(161, 230, 159);
-    overflow: clip;
-    overflow: clip margin 30px;
-}
-
-#text4 {
-    border: 3px solid blanchedalmond;
-    height: 50px;
-    color: rgb(219, 184, 131);
-    overflow: scroll;
-}
-
-#text5 {
-    border: 3px solid blanchedalmond;
-    height: 50px;
-    color: rgb(198, 151, 230);
-    overflow: auto;
+span{
+    background-color: hsl(204, 100%, 75%);
+    width: 100px;
+    height: 100px;
+    display: inline;
 }
